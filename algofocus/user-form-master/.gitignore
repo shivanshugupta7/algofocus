@@ -1,0 +1,4 @@
+node_modules
+projfrontend/node_modules
+.env
+projfrontend/build
